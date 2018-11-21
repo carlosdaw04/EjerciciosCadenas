@@ -1,6 +1,12 @@
 import java.util.Scanner;
 
 public class Ejercicio3 {
+	
+	/*Programa que lea dos cadenas y
+	 * muestre el numero de veces que
+	 * la segunda esta contenida en la primera
+	 */
+	
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		
